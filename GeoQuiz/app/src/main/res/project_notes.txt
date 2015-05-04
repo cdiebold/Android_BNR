@@ -1,0 +1,20 @@
+GeoQuiz tests the user's knowledge of Geography. The user presses True or False
+to answer the question on screen.
+
+
+
+GeoQuiz consists of:
+
+an Activity - is an instance of Activity, a class in the Android SDK. An activity is responsible
+for managing user interaction with a screen of information.
+ You write subclasses of Activity to implement the functionality that your app
+ requires. A simple application may need only one subclass; a complex application can have many.
+
+
+
+
+“A layout defines a set of user interface objects and their position on the screen. A layout is
+ made up of definitions written in XML. Each definition is used to create an object that appears
+ on screen, like a button or some text. ”
+
+Excerpt From: Hardy, Brian. “Android Programming: The Big Nerd Ranch Guide.” iBooks.
